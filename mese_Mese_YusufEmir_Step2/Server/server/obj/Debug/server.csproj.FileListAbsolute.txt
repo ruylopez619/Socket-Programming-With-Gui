@@ -1,0 +1,11 @@
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\bin\Debug\server.exe.config
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\bin\Debug\server.exe
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\bin\Debug\server.pdb
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\obj\Debug\server.Form1.resources
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\obj\Debug\server.exe
+C:\Users\Tunah\OneDrive\Masaüstü\okul\CS 408\Proje\step2\mese_Mese_YusufEmir_Step2\mese_Mese_YusufEmir_Step2\Server\server\obj\Debug\server.pdb
